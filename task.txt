@@ -1,0 +1,2 @@
+Design and test a software application.
+Docment requirements and fix reported bugs.
