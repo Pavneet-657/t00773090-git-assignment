@@ -1,5 +1,10 @@
 Class: Software Engineering
+<<<<<<< HEAD
 Favorite Topic: Databases
 
 
 Goal: learn Git. 
+=======
+Favorite topic: Web Design
+Goal: Learn Git.
+>>>>>>> feature-bio
